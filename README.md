@@ -3,7 +3,7 @@ This Web Application is created using MongoDB, Express, React, Node.js, and Mong
 Packages that are seperately installed are Express, cors , mongoose and dotenv , nodemon(globally),axios.
 
 
-#Commands to be executed to run the project
+# Commands to be executed to run the project
 
 In the project directory, you can run:
 
